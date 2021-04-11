@@ -33,7 +33,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@types/node": "^12.12.29",
     "@types/universal-cookie": "^2.2.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "clsx": "^1.1.0",
     "dotenv-flow": "^3.1.0",
     "formik": "^2.1.4",
